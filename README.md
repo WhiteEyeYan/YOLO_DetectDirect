@@ -6,4 +6,9 @@
   
 所以用yolo及修改作者的darknet.py來判斷上下左右且由左至右排序找到的物件，再依序輸入解除負面效果  
   
-圖片樣本：
+訓練效果：  
+![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/example_img/original_1.jpg) ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/example_img/result_1.jpg)  
+  
+![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/example_img/original_2.jpg) ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/example_img/result_2.jpg)  
+  
+![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/example_img/original_3.jpg) ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/example_img/result_3.jpg)  
