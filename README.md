@@ -14,7 +14,7 @@
   ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/README_img/original_1.jpg) ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/README_img/result_1.jpg)  
   
   example 2：  
-    ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/example_img/original_2.jpg) ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/README_img/result_2.jpg)  
+    ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/README_img/original_2.jpg) ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/README_img/result_2.jpg)  
   
   example 3：  
-  ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/example_img/original_3.jpg) ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/README_img/result_3.jpg)  
+  ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/README_img/original_3.jpg) ![img](https://github.com/WhiteEyeYan/YOLO_DetectDirect/blob/main/README_img/result_3.jpg)  
